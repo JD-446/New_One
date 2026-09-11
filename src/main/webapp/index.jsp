@@ -1307,7 +1307,7 @@
                 <div class="brand-col">
                     <div class="brand">
                         <i class="fas fa-store-alt"></i>
-                        <span>Nexus<span class="accent">Shop</span></span>
+                        <span>My Nexus<span class="accent">Shoppper</span></span>
                     </div>
                     <p>Modern e‑commerce demo built with care. Quality products, seamless experience.</p>
                     <div class="socials">
